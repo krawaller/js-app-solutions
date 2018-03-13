@@ -1,0 +1,9 @@
+{
+    "defaultSeverity": "error",
+
+    "jsRules": {},
+    "rules": {
+        "no-empty": true
+    },
+    "rulesDirectory": []
+}

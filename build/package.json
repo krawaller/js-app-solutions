@@ -1,0 +1,14 @@
+{
+  "name": "moviereview_4_4",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "styles": "lessc styles.less styles.css"
+  },
+  "author": "Tuffvid",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^2.7.3",
+    "webpack": "^3.8.1"
+  }
+}
